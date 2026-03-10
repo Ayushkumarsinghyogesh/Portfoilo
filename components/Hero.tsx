@@ -25,7 +25,7 @@ export default function Hero() {
       </motion.p>
 
       <a
-        href="/resume.pdf"
+        href="/AyushKumar_SDE.pdf"
         className="mt-6 bg-white text-black px-6 py-2 rounded-lg"
         download
       >
